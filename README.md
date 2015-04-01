@@ -8,7 +8,7 @@ Source files contain a Xcode project for the iPhone Breakout clone app.
 
 These are source files for the Tuts+ course: [Game Development with Swift and SpriteKit][published url]
 
-Available on [Tuts+](https://tutsplus.com)
+Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses
+[published url]: https://code.tutsplus.com/courses/game-development-with-swift-and-spritekit
 [instructor url]: https://tutsplus.com/authors/derek-jensen
